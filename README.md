@@ -16,8 +16,7 @@ El proyecto cuenta actualmente con las siguientes funcionalidades:
 - Validación de campos obligatorios.
 - Visualización de los datos registrados.
 - Acceso a la inscripción de asignaturas.
-- Visualización de asignaturas disponibles.
-- Visualización de docente, horario y cupos disponibles.
+- Visualización de asignaturas disponibles, con docente, horario y cupos disponibles.
 - Inscripción de asignaturas.
 - Visualización de las asignaturas inscritas.
 - Navegación entre las diferentes vistas mediante React Router.
